@@ -1,2 +1,0 @@
-# mergerware
-website project
